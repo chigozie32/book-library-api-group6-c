@@ -37,6 +37,54 @@ let books = [
     available: true,
     rating: 4.7,
     year: 1988
+  },
+  
+  {
+    //Danny writes here
+    
+  },
+  {
+    //Danny writes here
+  },
+  
+    {
+    //Elvis writes here
+    
+  },
+  {
+    //Elvis writes here
+  },
+  
+    {
+    //ama writes here
+    
+  },
+  {
+    //ama writes here
+  },
+  
+    {
+    //nadi writes here
+    
+  },
+  {
+    //nadi writes here
+  },
+  
+    {
+    //volpinus writes here
+    
+  },
+  {
+    //volpinus writes here
+  },
+  
+  {
+   //blessing writes here
+    
+  },
+  {
+    //blessing writes here
   }
   
 ];
