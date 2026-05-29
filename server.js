@@ -49,10 +49,23 @@ let books = [
   
     {
     //Elvis writes here
-    
+    id: 6,
+    title: "The Midnight Library",
+    author: "Matt Haig",
+    genre: "Fantasy",
+    available:false ,
+    rating:4.1 ,
+    year: 2020
   },
   {
     //Elvis writes here
+    id: 7,
+    title: "Project Hail Mary",
+    author: "Andy Weir",
+    genre: "Sci-Fi",
+    available: true,
+    rating: 4.8,
+    year: 2021
   },
   
     {
