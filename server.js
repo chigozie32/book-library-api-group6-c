@@ -91,10 +91,23 @@ let books = [
   
     {
     //nadi writes here
-    
+    id: 10,
+    title: "Americanah",
+    author: "Chimamanda Ngozi Adichie",
+    genre: "Fiction",
+    available: true,
+    rating: 4.7,
+    year: 2013
   },
   {
     //nadi writes here
+    id: 11,
+    title: "Love & Respect",
+    author: "Dr. Emerson Eggerichs",
+    genre: "Religion/Christian Living",
+    available: true,
+    rating: 4.7,
+    year: 2004
   },
   
     {
