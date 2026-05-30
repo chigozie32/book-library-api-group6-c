@@ -121,9 +121,23 @@ let books = [
   {
    //blessing writes here
     
+    id: 14,
+    title: "The 7 Habit of Highly Effective People",
+    author: "Sthephen R. Covey",
+    genre: "Self Development",
+    available: true,
+    rating: 4.7,
+    year: 2004
   },
   {
     //blessing writes here
+    id: 15,
+    title: "The Richest Man In Babylon",
+    author: "Goerge S. clason",
+    genre: "Finance",
+    available: true,
+    rating: 4.7,
+    year: 1926
   }
   
 ];
