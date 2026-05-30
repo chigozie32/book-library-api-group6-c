@@ -70,10 +70,23 @@ let books = [
   
     {
     //ama writes here
-    
+    id: 8,
+    title: "The Seven Husband of Evelyn Hugo",
+    author: "Taylor Jenkins Reid",
+    genre: "Historical Fiction/Romance",
+    available: true,
+    rating: 4.42,
+    year: 2017
   },
   {
     //ama writes here
+    id: 9,
+    title: "Peter and Wendy",
+    author: "J.M. Barrie",
+    genre: "Fantasy",
+    available: true,
+    rating: 4.1,
+    year: 1911
   },
   
     {
