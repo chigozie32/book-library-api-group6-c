@@ -38,23 +38,23 @@ let books = [
     rating: 4.7,
     year: 1988
   },
-  
+
   {
     //Danny writes here
-    
+
   },
   {
     //Danny writes here
   },
-  
-    {
+
+  {
     //Elvis writes here
     id: 6,
     title: "The Midnight Library",
     author: "Matt Haig",
     genre: "Fantasy",
-    available:false ,
-    rating:4.1 ,
+    available: false,
+    rating: 4.1,
     year: 2020
   },
   {
@@ -67,8 +67,8 @@ let books = [
     rating: 4.8,
     year: 2021
   },
-  
-    {
+
+  {
     //ama writes here
     id: 8,
     title: "The Seven Husband of Evelyn Hugo",
@@ -88,8 +88,8 @@ let books = [
     rating: 4.1,
     year: 1911
   },
-  
-    {
+
+  {
     //nadi writes here
     id: 10,
     title: "Americanah",
@@ -109,18 +109,31 @@ let books = [
     rating: 4.7,
     year: 2004
   },
-  
-    {
+
+  {
     //volpinus writes here
-    
+    id: 12,
+    title: "A bouquet for Mother's Day",
+    author: "Jennifer Brown",
+    genre: "Romance",
+    available: true,
+    rating: 4.1,
+    year: 2026
   },
   {
     //volpinus writes here
+    id: 13,
+    title: "Horrorstor",
+    author: "Grady Hendrix",
+    genre: "Horror",
+    available: true,
+    rating: 4.9,
+    year: 2018
   },
-  
+
   {
-   //blessing writes here
-    
+    //blessing writes here
+
     id: 14,
     title: "The 7 Habit of Highly Effective People",
     author: "Sthephen R. Covey",
@@ -139,7 +152,7 @@ let books = [
     rating: 4.7,
     year: 1926
   }
-  
+
 ];
 
 // HOME ROUTE
