@@ -41,10 +41,24 @@ let books = [
 
   {
     //Danny writes here
+    id:4,
+    title: "The way Of Kings",
+    author: "Brandon Sanderson",
+    genre: "Tantasy",
+    available: true,
+    rating: 4.6,
+    year: 2010
 
   },
   {
     //Danny writes here
+    id:5, 
+    title:"The Name Of The Wind ",
+    author:"Ptrick Rothfuss",
+    genre:"Fantasy",
+    available:true,
+    rating: 4.6 ,
+    year: 2007
   },
 
   {
